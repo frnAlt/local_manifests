@@ -48,9 +48,6 @@
  <!-- Dolby -->
  <project path="hardware/dolby" name="hardware_dolby" remote="mayuresh-sources" revision="sony-A17" />
 
- <!-- Dolby UI -->
- <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="mayuresh-sources" revision="a" />
-
  <!-- FaceUnlock -->
  <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="pixelos" revision="seventeen" />
 
